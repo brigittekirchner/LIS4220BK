@@ -1,0 +1,8 @@
+Variable,IDCODE,Mode,STIMULI,RT
+Question,Participant code,"Treble, Bass, Word",Stimuli image,Reaction time (ms)
+Subquestion,,,,
+Scale,Nominal,Nominal,Nominal,Scale
+Missings,,,,
+Values/Labels,,1 | Treble,,
+,,2 | Bass,,
+,,3 | Word,,

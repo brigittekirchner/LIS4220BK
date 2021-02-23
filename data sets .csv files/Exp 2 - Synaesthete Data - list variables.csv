@@ -1,0 +1,8 @@
+Variable,IDCODE,Congruency,Mode,STIMULI,Correctans,RToriginal,RTcorrected
+Question,Participant code,Congruency,"Treble, Bass, Word",Stimuli image,Answer correct or incorrect,Reaction time original (ms),Reaction time corrected for errors and 3SDs (ms)
+Subquestion,,,,,,,
+Scale,Nominal,Nominal,Nominal,Nominal,Nominal,Scale,Scale
+Missings,,,,,,,
+Values/Labels,,0 | Incongruent,1 | Treble,,1 | Correct,,
+,,1 | Congruent,2 | Bass,,2 | Incorrect,,
+,,,3 | Word,,,,

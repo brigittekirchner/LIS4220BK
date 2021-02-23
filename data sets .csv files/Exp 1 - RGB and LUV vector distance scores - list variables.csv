@@ -1,0 +1,7 @@
+Variable,Part,RGBScores,LUVscores,SYNCON
+Question,Participant,RGB vector distance score,LUV vectors distance scores,Synaesthete or Control
+Subquestion,,,,
+Scale,Nominal,Scale,Scale,Nominal
+Missings,,,,
+Values/Labels,,,,1 | Synaesthete
+,,,,2 | Control

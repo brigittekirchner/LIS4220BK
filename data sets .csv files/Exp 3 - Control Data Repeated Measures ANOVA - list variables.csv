@@ -1,0 +1,6 @@
+Variable,ID,BassMS,TrebleMS,WordMs
+Question,Participant ID,Bass mean RT in ms,Treble mean RT in ms,Word mean RT in ms
+Subquestion,,,,
+Scale,Nominal,Scale,Scale,Scale
+Missings,,,,
+Values/Labels,,,,

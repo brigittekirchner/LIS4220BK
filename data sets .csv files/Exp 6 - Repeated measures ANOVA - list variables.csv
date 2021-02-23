@@ -1,0 +1,6 @@
+Variable,ID,Pres500C,Pres500IC,Pres56C,Pres56IC,Pres28C,Pres28IC
+Question,Participants ID,Presentation 500ms Congruent,Presentation 500ms Incongruent,Presentation 56ms Congruent,Presentation 56ms Incongruent,Presentation 28ms Congruent,Presentation 28ms Incongruent
+Subquestion,,,,,,,
+Scale,Nominal,Scale,Scale,Scale,Scale,Scale,Scale
+Missings,,,,,,,
+Values/Labels,,,,,,,

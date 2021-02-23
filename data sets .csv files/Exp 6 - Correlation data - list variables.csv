@@ -1,0 +1,8 @@
+Variable,ID,RT,ER,ERpercentage,Pres,Con
+Question,Participant ID,Average RT,No of errors same and diff,Percentage error rate,Pres time,Congruency
+Subquestion,,,,,,
+Scale,Nominal,Scale,Scale,Scale,Nominal,Nominal
+Missings,,,,,,
+Values/Labels,,,,,1 | 500ms,1 | Congruent
+,,,,,2 | 56ms,2 | Incongruent
+,,,,,3 | 28ms,

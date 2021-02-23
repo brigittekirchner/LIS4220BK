@@ -1,0 +1,7 @@
+Variable,ID,Key,Lfirst,Lsecond,Ufirst,Usecond,Vfirst,Vsecond,SynCon
+Question,Participant,Key,First L,Second L,First U,Second U,First V,Second V,Synaesthete or control
+Subquestion,,,,,,,,,
+Scale,Nominal,Nominal,Scale,Scale,Scale,Scale,Scale,Scale,Nominal
+Missings,,,999 to 999,999 to 999,999 to 999,999 to 999,999 to 999,999 to 999,
+Values/Labels,,,,,,,,,1 | Synaesthete
+,,,,,,,,,2 | Control

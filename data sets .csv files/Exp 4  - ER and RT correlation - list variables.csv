@@ -1,0 +1,8 @@
+Variable,ID,MeanRT,ER,Prestime,Noerrors,Syncon
+Question,Participant ID,Mean RT (ms),Error rate,Presentation Time,No of errors,Synaesthete or control
+Subquestion,,,,,,
+Scale,Nominal,Scale,Scale,Nominal,Scale,Nominal
+Missings,,,,,,
+Values/Labels,,,,1 | 500ms,,1 | Synaesthete
+,,,,2 | 56ms,,2 | Control
+,,,,3 | 28ms,,

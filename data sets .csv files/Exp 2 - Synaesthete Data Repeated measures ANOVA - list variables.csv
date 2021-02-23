@@ -1,0 +1,6 @@
+Variable,IDCODE,BassC,TrebleC,WordC,BassIC,TrebleIC,WordIC
+Question,Participant ID,Bass Congruent Mean (ms),Treble Congruent Mean (ms),Word Congruent Mean (ms),Bass Incongruent Mean (ms),Treble Incongruent Mean (ms),Word Incongruent Mean (ms)
+Subquestion,,,,,,,
+Scale,Nominal,Scale,Scale,Scale,Scale,Scale,Scale
+Missings,,,,,,,
+Values/Labels,,,,,,,
