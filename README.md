@@ -11,6 +11,6 @@ Included in this repository are:
   
   XML file of structured metadata in DataCite schema
   
-  XML file of structured metadata in Dublin Core schema
+  XML file of structured metadata in Dublin Core schema (not sure if required; coming soon!)
   
-  XML file of structured metadata in Data Documentation Initiative (DDI) schema
+  XML file of structured metadata in Data Documentation Initiative (DDI) schema (not sure if required; coming soon!)
