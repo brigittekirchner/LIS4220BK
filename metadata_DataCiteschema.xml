@@ -3,39 +3,47 @@
   <identifier identifierType="DOI">10.15131/SHEF.DATA.13140086.V2</identifier>
   <creators>
     <creator>
-      <creatorName>Caroline Curwen</creatorName>
+      <creatorName>Curwen, Caroline</creatorName>
+      <nameType>Personal</nameType>
+      <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0003-2557-7909</nameIdentifier>
+      <affiliation>University of Sheffield</affiliation>
     </creator>
   </creators>
   <titles>
     <title>Synaesthesia for reading written musical keys</title>
+    <title titleType="AlternativeTitle">Synesthesia for reading written musical keys</title>
   </titles>
-  <descriptions>
-    <description descriptionType="Abstract">&lt;p&gt;This study is the first empirical demonstration of synaesthesia for reading written musical keys. Nine music-colour synaesthetes and nine controls took part in six experiments that aimed to confirm the authenticity of synaesthesia for reading musical keys, and to demonstrate that this type of synaesthesia is linked to conceptual rather than to purely perceptual processing of the inducing stimulus. First, the existence of a synaesthetic association with written musical keys was validated in an objective manner by employing two measures of consistency as diagnostic criteria. Second, the automaticity of the synaesthetes’ responses was tested by demonstrating the presence of interference when naming synaesthetic colours for incongruent pairings of colour and musical key. To test whether a change in form altered the concept of the musical key, stimuli were randomly presented in three separate modes (words, treble clef or bass clef). Last, the congruency effect on reaction times was tested when exposure to the stimulus was significantly curtailed; separate groups of synaesthetes and controls were tested as the explicit naming of synaesthetic colour was not required.&lt;b&gt; &lt;/b&gt;Findings showed synaesthesia for written musical keys to be a genuine form of synaesthesia elicited from the concept, or the idea, of the key. The software package SPSS Statistics V25 was used to carry out the analysis of the data collected which has been deposited here. &lt;/p&gt;</description>
-  </descriptions>
+  <publisher>The University of Sheffield</publisher>
+  <publicationYear>2020</publicationYear>
   <subjects>
     <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">190409 Musicology and Ethnomusicology</subject>
     <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">179999 Psychology and Cognitive Sciences not elsewhere classified</subject>
     <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">130201 Creative Arts, Media and Communication Curriculum and Pedagogy</subject>
-    <subject>Performing Arts</subject>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">190499 Performing Arts and Creative Writing not elsewhere classified</subject>
     <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">170112 Sensory Processes, Perception and Performance</subject>
+    <subject>Music-Colour Synaesthesia</subject>
+    <subject>Music-Color Synesthesia</subject>
+    <subject>Synaesthesia</subject>
+    <subject>Synesthesia</subject>
   </subjects>
-  <publisher>The University of Sheffield</publisher>
-  <publicationYear>2020</publicationYear>
   <dates>
-    <date dateType="Created">2020-11-09</date>
+  	<date dateType="Created">2020-11-09</date>
     <date dateType="Updated">2020-11-09</date>
   </dates>
   <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsIdenticalTo">10.15131/shef.data.13140086</relatedIdentifier>
+  </relatedIdentifiers>
   <sizes>
     <size>57559 Bytes</size>
   </sizes>
   <formats>
   	<format>text/csv</format>
   </formats>
-  <relatedIdentifiers>
-    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsIdenticalTo">10.15131/shef.data.13140086</relatedIdentifier>
-  </relatedIdentifiers>
   <rightsList>
     <rights rightsURI="https://creativecommons.org/publicdomain/zero/1.0/">CC0</rights>
   </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;p&gt;This study is the first empirical demonstration of synaesthesia for reading written musical keys. Nine music-colour synaesthetes and nine controls took part in six experiments that aimed to confirm the authenticity of synaesthesia for reading musical keys, and to demonstrate that this type of synaesthesia is linked to conceptual rather than to purely perceptual processing of the inducing stimulus. First, the existence of a synaesthetic association with written musical keys was validated in an objective manner by employing two measures of consistency as diagnostic criteria. Second, the automaticity of the synaesthetes’ responses was tested by demonstrating the presence of interference when naming synaesthetic colours for incongruent pairings of colour and musical key. To test whether a change in form altered the concept of the musical key, stimuli were randomly presented in three separate modes (words, treble clef or bass clef). Last, the congruency effect on reaction times was tested when exposure to the stimulus was significantly curtailed; separate groups of synaesthetes and controls were tested as the explicit naming of synaesthetic colour was not required.&lt;b&gt; &lt;/b&gt;Findings showed synaesthesia for written musical keys to be a genuine form of synaesthesia elicited from the concept, or the idea, of the key. The software package SPSS Statistics V25 was used to carry out the analysis of the data collected which has been deposited here. &lt;/p&gt;</description>
+  </descriptions>
 </resource>
