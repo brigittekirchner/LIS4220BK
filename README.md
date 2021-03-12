@@ -5,7 +5,7 @@ These datasets were complied into this repository by Brigitte Kirchner, MLIS can
 
 REPOSITORY CONTENTS:
 
-File name: LIS 420 combined profiles and additional information
+File name: LIS 4220 combined profiles and additional information
 
 Description: This is a write up combining the first two assignments from the class for this project, and additional information. The information included in this document are:
   The edited Metadata Profile assignment (including information on the project, the datasets, and metadata/data included in initial Figshare upload).
